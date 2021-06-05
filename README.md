@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am as left side pane says it, a GitHub user and a technologist who wish to code the innovation. 
 Here are few things you can know about myself, 
-I am a writer, reader, life enthusiast and likes to be alone most of the time. I had zero girlfriends till now. Always onesided in expectations. I give more then receiving. 
+I am a writer, reader, life enthusiast and likes to be alone most of the time. Always onesided in expectations.
 
 ### Know more about ME
 🔭 I’m currently working on ...
