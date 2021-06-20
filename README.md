@@ -23,10 +23,10 @@ I am a writer, reader, life enthusiast and likes to be alone most of the time. A
 🔭 I’m currently working on ...
 - Single URL Monitoring Plugin
 - Mobile Synthetic
-- Volunteers Form (Android Application)
+- Jekyll (Markdown)
 
 🌱 I’m currently learning ...
-- RactNatuive
+- RactNative
 - NodeJs
 - Kubernetes
 - Microsoft Azure
@@ -52,7 +52,7 @@ I am a writer, reader, life enthusiast and likes to be alone most of the time. A
 - GitHub/Git
 - Python
 - Mentoring
-- Careen PAths in technology
+- Careen Paths in technology
 
 📫 How to reach me: ...
 - [Email 1](mailto:harithsa@thetechnologist.in)
@@ -60,7 +60,7 @@ I am a writer, reader, life enthusiast and likes to be alone most of the time. A
 - [LinkedIn](https://linkedin.com/in/theharithsa)
 
 😄 Pronouns: ...
-- He/Mr
+- He/Him
 
 ⚡ Fun fact: ...
 - I am little dominant and likes to have control over things that I do. Strong believer of Inner Engineer
