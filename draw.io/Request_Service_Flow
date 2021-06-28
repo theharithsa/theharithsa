@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T01:58:16.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="yJGb7piNg_7qVvMb4nIz" version="14.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-28T02:00:56.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="ikWjz7ijl8VH5thwbE4A" version="14.8.1" type="github" pages="2">
   <diagram id="D7Nak_RQ5y5UMUo1ibD-" name="Service Flow">
     <mxGraphModel dx="1054" dy="5024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -284,7 +284,7 @@
         <mxCell id="gqi4Y6_q1RxdI-YRo-xC-3" value="Server response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;sketch=1;" vertex="1" parent="gqi4Y6_q1RxdI-YRo-xC-1">
           <mxGeometry x="40" y="80" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gqi4Y6_q1RxdI-YRo-xC-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;How browsers display webpage from the response it receives from web servers&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="gqi4Y6_q1RxdI-YRo-xC-1">
+        <mxCell id="gqi4Y6_q1RxdI-YRo-xC-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;How browsers display webpage when it receives response it from web servers&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="gqi4Y6_q1RxdI-YRo-xC-1">
           <mxGeometry x="572" y="10" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gqi4Y6_q1RxdI-YRo-xC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="gqi4Y6_q1RxdI-YRo-xC-1" source="gqi4Y6_q1RxdI-YRo-xC-5" target="gqi4Y6_q1RxdI-YRo-xC-6">
