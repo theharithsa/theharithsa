@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T02:41:59.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="P9-E6iXZRvEMkyCNIsFb" version="14.8.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-02T02:50:15.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="ZvSwevhqy7eA3DLM2Kgr" version="14.8.3" type="github" pages="6">
   <diagram id="D7Nak_RQ5y5UMUo1ibD-" name="Service Flow">
     <mxGraphModel dx="1102" dy="5063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -726,7 +726,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HBRGk4l8lNJgSekzZuFk" name="Painting/Rasterization">
-    <mxGraphModel dx="1102" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="ERt385W-fVNncO1fwSGA-0" />
         <mxCell id="ERt385W-fVNncO1fwSGA-1" parent="ERt385W-fVNncO1fwSGA-0" />
@@ -751,7 +751,7 @@
           <mxGeometry x="255" y="60" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5eVTVqjOZ4S64Rv5dPDY-9" value="Browser will do the heavy lifting and in this stage it uses GPU of the device to&lt;br&gt;perform the task of painting contents to the layout." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="ERt385W-fVNncO1fwSGA-1">
-          <mxGeometry x="460" y="60" width="450" height="30" as="geometry" />
+          <mxGeometry x="486.5" y="65" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3itVCy53GSv0NjYtkQlr-3" value="" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=10;fontColor=#6666FF;startArrow=none;" edge="1" parent="ERt385W-fVNncO1fwSGA-1" source="3itVCy53GSv0NjYtkQlr-12" target="3itVCy53GSv0NjYtkQlr-2">
           <mxGeometry relative="1" as="geometry" />
