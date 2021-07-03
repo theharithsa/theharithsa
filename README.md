@@ -21,9 +21,12 @@ I am a writer, reader, life enthusiast and likes to be alone most of the time. A
 
 ### Know more about ME
 🔭 I’m currently working on ...
-- Single URL Monitoring Plugin
-- Mobile Synthetic
+- OpsMobile
 - Jekyll (Markdown)
+- Elasticsearch
+- GitLab
+- Azure DevOps
+- Dynatrace India ACE Sercices Internal Projects
 
 🌱 I’m currently learning ...
 - ReactNative
