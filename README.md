@@ -26,7 +26,7 @@ I am a writer, reader, life enthusiast and likes to be alone most of the time. A
 - Jekyll (Markdown)
 
 🌱 I’m currently learning ...
-- RactNative
+- ReactNative
 - NodeJs
 - Kubernetes
 - Microsoft Azure
