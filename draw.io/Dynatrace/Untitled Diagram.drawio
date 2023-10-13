@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T02:12:37.958Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="IQBFeKlpuIcxo5Tk0Nk5" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T02:14:32.680Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="SPuiG2u6DAgV4-WsQ1kh" version="22.0.4" type="github">
   <diagram name="Page-1" id="ikO542yLyNNVgnDsHqiV">
     <mxGraphModel dx="804" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dynatraceRUM" value="Dynatrace RUM" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#4D4D4D;" parent="1" vertex="1">
+          <mxGeometry x="60" y="80" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="googleAnalytics" value="Google Analytics" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#4D4D4D;" parent="1" vertex="1">
+          <mxGeometry x="370" y="80" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="connection" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=0;exitDx=0;exitDy=0;html=1;exitPerimeter=0;strokeWidth=2;strokeColor=#4D4D4D;" parent="1" source="dynatraceRUM" target="googleAnalytics" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
