@@ -6,7 +6,7 @@ datePublished: Sat Dec 16 2023 21:02:22 GMT+0000 (Coordinated Universal Time)
 cuid: clq8jnvj4000308jz1pv77vvb
 slug: a-glimpse-into-hypermodal-ai-and-its-potential-in-indian-markets
 canonical: https://medium.com/the-next-team/a-glimpse-into-hypermodal-ai-and-its-potential-in-indian-markets-ecbe790f33e3
-tags: artificial-intelligence, observability, dynatrace
+tags: artificial-intelligence, 2articles1week, observability, dynatrace
 
 ---
 
