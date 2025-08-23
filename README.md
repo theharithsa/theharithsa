@@ -1,55 +1,40 @@
-# Hi there 👋 I'm Vishruth  
+# Hi, I'm Vishruth  
 
-🚀 **Customer Success Engineer | Technology Evangelist | CTO @ Area24 One**  
-
-I’m passionate about helping businesses get the most out of their technology investments by blending **observability, automation, and AI-driven insights**.  
-With **10 years in tech** and **7 years focused on Dynatrace**, I work with global customers across banking, finance, and enterprise to improve reliability, performance, and innovation at scale.  
+I’m a **Customer Success Engineer and Technology Evangelist** with over **10 years in the tech industry** and **7 years of experience with Dynatrace**.  
+My work is centered on helping organizations improve **reliability, performance, and scalability** through observability, automation, and cloud-native practices.  
 
 ---
 
-## 🌟 What I Do  
-- 🔍 **Observability & Monitoring** – Designing end-to-end monitoring solutions with Dynatrace, Kubernetes, GCP, and OpenTelemetry.  
-- 🤖 **Automation & AI Ops** – Building workflows and scripts to eliminate toil, cut down MTTR, and drive intelligent decision-making.  
-- ☁️ **Cloud Expertise** – Hands-on with GCP, Kubernetes, serverless functions, and real-world multi-project architectures.  
-- 🛠 **Engineering Solutions** – Python, TypeScript, Node.js scripting for API integrations, monitoring extensions, and pipelines.  
-- 🎤 **Evangelism & Training** – Conducting workshops, customer training, and sharing insights to build a stronger observability culture.  
+## What I Do  
+- Observability and monitoring with Dynatrace, Kubernetes, GCP, and OpenTelemetry  
+- Building automation workflows to reduce manual effort and speed up resolution times  
+- Designing cloud-native architectures with a focus on scalability and cost efficiency  
+- Writing scripts and integrations in Python, TypeScript, and Node.js  
+- Delivering workshops, training, and guidance to strengthen observability practices  
 
 ---
 
-## 🏢 Roles & Ventures  
-- 👨‍💻 **Senior Customer Success Engineer** @ Dynatrace  
-- 🧑‍🚀 **CTO** @ [Area24 One](#) – leading technology strategy for real estate & service businesses  
-- 🎤 **Community Builder** – speaking, mentoring, and contributing to the observability ecosystem  
+## Current Focus  
+- AI-driven observability and intelligent automation  
+- End-to-end monitoring designs for Kubernetes and GCP environments  
+- Integrating CI/CD pipelines with observability platforms  
 
 ---
 
-## 📚 Current Focus  
-- Exploring **AI-driven observability** – integrating automation and context-aware insights in DevOps.  
-- Implementing **GitHub → Dynatrace observability pipelines** for CI/CD visibility.  
-- Building scalable monitoring designs for **Kubernetes & GCP** at enterprise level.  
-
----
-
-## ⚡ Tech Stack  
+## Tech Stack  
 - **Languages**: Python, TypeScript, Node.js, Go (learning), Shell  
-- **Clouds**: Google Cloud Platform (GKE, Cloud Functions, Pub/Sub, BigQuery)  
-- **Monitoring**: Dynatrace, OpenTelemetry, Grafana, Prometheus  
+- **Cloud**: Google Cloud Platform (GKE, Cloud Functions, Pub/Sub, BigQuery)  
+- **Monitoring**: Dynatrace, OpenTelemetry, Prometheus, Grafana  
 - **Other**: GitHub Actions, Terraform, Zoho One automation  
 
 ---
 
-## ✨ Fun Side of Me  
-- 🎥 Love creating tech explainers, articles, and podcasts (recently started an AI + Observability series).  
-- 🎶 Mixes philosophy, science, and humor when talking tech.  
-- 🌱 Always learning, always building, always curious.  
+## Beyond Work  
+I enjoy sharing knowledge through writing, training, and community discussions.  
+I believe technology should not only solve problems but also make systems more **understandable, predictable, and trustworthy**.  
 
 ---
 
-## 📫 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vishruth)  
-- 🐦 [X / Twitter](https://twitter.com/)  
-- 🌐 [Personal Website](#)  
-
----
-
-⭐️ *"Observability isn’t just about metrics, logs, and traces. It’s about telling the story of your systems so people can trust them."*
+## Connect  
+- [LinkedIn](https://www.linkedin.com/in/vishruth)  
+- [GitHub](https://github.com/yourusername)  
