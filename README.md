@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowarcanist&label=Profile%20views&color=00cc6d&style=flat" alt="theharithsa" /> </p>
+
+
 # Hi, I'm Vishruth  
 
 I’m a **Customer Success Engineer and Technology Evangelist** with over **10 years in the tech industry** and **7 years of experience with Dynatrace**.  
